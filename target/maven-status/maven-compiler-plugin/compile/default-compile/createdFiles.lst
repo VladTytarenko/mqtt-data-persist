@@ -1,0 +1,5 @@
+com/fractal/mqttdatapersist/schedule/TransferServiceImpl.class
+com/fractal/mqttdatapersist/MqttDataPersistApplication.class
+com/fractal/mqttdatapersist/mqtt/SubscribeCallback.class
+com/fractal/mqttdatapersist/mqtt/MqttServiceImpl.class
+com/fractal/mqttdatapersist/mqtt/MqttService.class
